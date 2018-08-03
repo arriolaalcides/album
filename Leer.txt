@@ -1,0 +1,23 @@
+------------------------------
+
+	Album V 1.01
+   
+------------------------------
+
+Creado por Alcides Arriola arriolaalcides@gmail.com
+
+
+
+
+Requerimientos:
+	- Base de datos MYSQL
+	- Permisos de escritura a la carpeta llamada fotos.
+
+Instalación:
+	- Copiar todos los archivos y carpetas al directorio del servidor.
+	- En el archivo sql esta el codigo para construir las tablas.
+	- En el archivo libs/Config.php se deben cambiar el usuario, contraseña, host y bd que se usara.
+
+Si se ha hecho los pasos anteriores correctamente, ésto funciona!
+
+Muchas gracias!
