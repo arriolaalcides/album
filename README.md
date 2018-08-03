@@ -1,7 +1,7 @@
-# Chimpa
+# Album
 >Este proyecto consiste en ser un catalogo de fotos Open Sourcer usando PHP 5.0 y Mysql.
  
-![N|Solid](http://www.damiancipolat.com/editor_docs/adjuntos/1439391038_1438742421_chimpa_home.png)
+
 
  ## Instalación:
 ```sh
